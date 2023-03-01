@@ -1,0 +1,12 @@
+Steps;
+    1. Create project using spring initializer
+    2. create MySQL Database configuration
+    3. Create JPA Entities - User and Role (Many to Many relationship)
+    4. BackEnd implementation for RRegistration feature
+        (repository, service and controller)
+    5. Front-end implementation for Registration feature (Thymeleaf template)
+    6.
+    7. Backend Implementation for Login feature.
+    8. Front End implementation for login feature.
+    9. Home Page implementation
+    10. Logout implementation
